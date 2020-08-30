@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\accounts",
+    "\\products",
+    "\\products\\templates",
+    "\\products\\templates\\products",
+    "\\Product_hunt",
+    "\\Product_hunt\\templates"
+  ],
+  "SelectedNode": "\\Product_hunt\\static",
+  "PreviewInSolutionExplorer": false
+}
